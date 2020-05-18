@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Name: </string>
+    <string name="etName">Name</string>
+    <string name="mobile">Mobile :</string>
+    <string name="etMobile">Mobile</string>
+    <string name="pax">Pax :</string>
+    <string name="etPax">Pax</string>
+    <string name="datetime">Select Date and Time :</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+</resources>
